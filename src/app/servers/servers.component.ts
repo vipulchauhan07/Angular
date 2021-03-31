@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
   // <app-server></app-server>
   // <app-server></app-server>
   // `,
-  templateUrl: '../server/server.component.html',
+  templateUrl: './servers.component.html',
   styleUrls: ['./servers.component.css']
 })
 export class ServersComponent implements OnInit {
